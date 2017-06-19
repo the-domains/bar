@@ -1,0 +1,53 @@
+layout_spectrum: 0.3238652987389982
+typography_spectrum: 0.9291176403451269
+color:
+  brandStrength: 0.6939294116581688
+  lightness: 0.6933798930696258
+  saturation: 0.32197916813563593
+  rhythmicContrast: 0.3921892583693867
+  brandColors:
+    - '#010D0D'
+    - '#FEFEFE'
+    - '#754726'
+    - '#C4915A'
+    - '#FFC200'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: the speakeasy
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca343038-6293-4b33-b97e-187e21798484.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca343038-6293-4b33-b97e-187e21798484.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: the speakeasy
+description: social hangout ~ open 24/7 whilst stocks last..
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fad8a0ff-363a-40cf-b546-168484c191b4.ico
+analytics:
+  google: UA-100545821-1
+github: true
