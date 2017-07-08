@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-07-08T11:41:45.518Z'
-datePublished: '2017-07-08T11:41:46.084Z'
+dateModified: '2017-07-08T15:47:03.572Z'
+datePublished: '2017-07-08T15:47:04.216Z'
 title: ''
 author: []
 publisher: {}
@@ -15,7 +15,7 @@ url: alcohol-may-be-mans-worst-enemy-but-the-bible-says-love-y/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/38050ffe-9710-4ec0-8c2c-6095f090794d.jpg)
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJylkM2OwjAMhO95CqsXWKQ297b0DRDHPTshKhH5IzaqWMS701aVgN2V9rBXjz3-ZlriqzOdqNClI5aMuTcMNwHgkU6l9dibGi7ZrVdH5kS1lMMwVEpZVJWOXlLUFp2XCvN0UaXQrz4akJt9YhsDHAzskM4Xs5Gj6WKbItlJrbUJbHLzVHw8jP9mmJcp2a9xqmNgtKERs1AORp0sl__l_JxtFro3018p3za-cf3Q-Zqeae5CtHKpW7TW96AdEm2L1-oLoKy3xZ8ZJv6ia1WW3QNexJX8" height="360" style=""></iframe>
 
 > Alcohol may be man's worst enemy, but the bible says love your enemy. ~ Frank Sinatra
 
