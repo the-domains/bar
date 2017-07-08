@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-07-08T15:47:03.572Z'
-datePublished: '2017-07-08T15:47:04.216Z'
+dateModified: '2017-07-08T15:58:07.030Z'
+datePublished: '2017-07-08T15:58:07.733Z'
 title: ''
 author: []
 publisher: {}
@@ -15,7 +15,7 @@ url: alcohol-may-be-mans-worst-enemy-but-the-bible-says-love-y/index.html
 _type: Article
 
 ---
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJylkM2OwjAMhO95CqsXWKQ297b0DRDHPTshKhH5IzaqWMS701aVgN2V9rBXjz3-ZlriqzOdqNClI5aMuTcMNwHgkU6l9dibGi7ZrVdH5kS1lMMwVEpZVJWOXlLUFp2XCvN0UaXQrz4akJt9YhsDHAzskM4Xs5Gj6WKbItlJrbUJbHLzVHw8jP9mmJcp2a9xqmNgtKERs1AORp0sl__l_JxtFro3018p3za-cf3Q-Zqeae5CtHKpW7TW96AdEm2L1-oLoKy3xZ8ZJv6ia1WW3QNexJX8" height="360" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJylkM1qw0AMhO_7FMKXtAF7oUfb8RuUHnvWbhZnyf51pWCSkHePbQz5K_TQq0YafTMt8dGZTlTo0g5LxtwbhrMA8Ej70nrsTQ2H7N5WO-ZEtZTDMFRKWVSVjl5S1BadlwrzdPFRpdCv3huQ66_ENgbYGvhE-jmYtRxdF98UyU5qrU1gk5ub4uN2fDjT3E3JnsapjoHRhkbMQjkYtbdc_hv0e_ZZ8B5cf8V82HgCe9H5mG5xLkK0cilctNb3oB0SbYr78gugrDfFnyEm_qJrVZbdFT77lmA" height="360" style=""></iframe>
 
 > Alcohol may be man's worst enemy, but the bible says love your enemy. ~ Frank Sinatra
 
