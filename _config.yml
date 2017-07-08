@@ -47,7 +47,10 @@ content:
 title: the speakeasy
 description: social hangout ~ open 24/7 whilst stocks last..
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fad8a0ff-363a-40cf-b546-168484c191b4.ico
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9995c7b8-b871-4cc7-98ae-b6063294bea3.ico
 analytics:
   google: UA-100545821-1
 github: true
+author:
+  name: adec
+  email: adrian@bbiab.com
