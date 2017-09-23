@@ -1,17 +1,17 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-07-08T15:59:22.285Z'
-datePublished: '2017-07-08T15:59:23.023Z'
+dateModified: '2017-09-23T11:53:31.322Z'
+datePublished: '2017-09-23T11:53:34.079Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-06-01-alcohol-may-be-mans-worst-enemy-but-the-bible-says-love-y.md
 hasPage: true
+datePublishedOriginal: '2017-09-23T11:53:34.079Z'
 starred: false
-datePublishedOriginal: '2017-06-23T09:20:52.781Z'
-url: alcohol-may-be-mans-worst-enemy-but-the-bible-says-love-y/index.html
+url: 495878c9-90c6-489a-b1bb-bdc8e2f99bf5/index.html
 _type: Article
 
 ---
